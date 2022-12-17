@@ -13,5 +13,11 @@ public class Demo1 {
 	{
 		System.out.println("demo2");
 	}
+	
+	@Test
+	public void sample3()
+	{
+		System.out.println("sam");
+	}
 
 }
