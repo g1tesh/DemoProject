@@ -9,9 +9,16 @@ public class Demo1 {
 	}
 	
 	@Test
-	public void demo2()
+	public void sample2()
 	{
-		System.out.println("demo2");
+		System.out.println("Sample2");
 	}
+	
+	@Test
+	public void sample3()
+	{
+		System.out.println("Sample3");
+	}
+	
 
 }
