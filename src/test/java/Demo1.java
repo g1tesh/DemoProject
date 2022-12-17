@@ -20,7 +20,14 @@ public class Demo1 {
 
 		System.out.println("sam");
 	}
+	
+	
+	@Test
+	public void sample4()
+	{
 
+		System.out.println("sam1");
+	}
 	
 	
 	
