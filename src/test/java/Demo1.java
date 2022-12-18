@@ -44,8 +44,10 @@ public class Demo1 {
 
 		int timeout = 10;
 	}
-
-	
+	public void SystemTimeout()
+	{
+		int systimeut = 10;
+	}
 	
 
 
