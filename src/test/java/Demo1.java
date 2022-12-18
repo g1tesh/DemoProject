@@ -29,6 +29,11 @@ public class Demo1 {
 		System.out.println("sam4");
 	}
 	
+	public void timeout()
+	{
+		System.out.println("timeout should be 10 sec");
+	}
+	
 	
 	
 
