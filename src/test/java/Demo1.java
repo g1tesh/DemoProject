@@ -33,8 +33,10 @@ public class Demo1 {
 	{
 		System.out.println("timeout should be 10 sec");
 	}
-	
-	
+	public void requestwait()
+	{
+		System.out.println("timeout should be 20 sec");
+	}
 	
 
 
