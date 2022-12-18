@@ -26,7 +26,7 @@ public class Demo1 {
 	public void sample4()
 	{
 
-		System.out.println("sam3");
+		System.out.println("sam4");
 	}
 	
 	
